@@ -1,0 +1,16 @@
+.about-me {
+    background: #000;
+    border: 1px solid #554e4e;
+    padding: 5% 10%;
+    box-shadow: 2px 5px 10px #616161;
+    border-radius: 50px;
+}
+.about-me .name h1 {
+    letter-spacing: 6px;
+}
+.about-me .name h5 {
+    letter-spacing: 1px;
+}
+.description {
+    color: #c6c6c6;
+}

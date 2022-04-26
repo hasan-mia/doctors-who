@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Diagnosing and treating more than 500 neurological conditions",
+		"description": "Dhen doctors suspect someone has a neurologic condition such as brain injury, tumors, hydrocephalus, aneurysm, epilepsy or stroke, a range of neurologic tests can help determine the diagnosis. A radiologist or technologist administers the test and then sends the results to the doctor.For instance, an arteriogram (or angiogram) can make veins, arteries and other structures more visible and can reveal blockages, malformations, aneurysms or other problems affecting the blood vessels of the brain and spine",
+		"id": 1,
+		"img": "https://img.freepik.com/free-photo/doctor-working-laptop-with-brain-image-background-cardiologist-doctor-work_482257-34589.jpg?t=st=1650294730~exp=1650295330~hmac=ad707d3048c4125481665b3ee5e5a5adbb3c599b6be4dc0c686bcfbb1e33ccef&w=740",
+		"price": 21.6
+	},
+	{
+		"title": "Transplant: Find your answer at Doctor Who",
+		"description": "After a liver, kidney or pancreas transplant, you will be taking medications to prevent rejection of your new organ and to fight infection. Preventing organ rejection and fighting infection is a delicate balance that requires close attention and care for the rest of your life. Rejection occurs when the body’s immune system recognizes the new organ as an invading threat. Medications that help prevent the immune system from damaging the new organ are called immunosuppressants. After your transplant surgery you will be prescribed medications that may include:",
+		"id": 2,
+		"img": "https://img.freepik.com/free-photo/doctor-showing-diagnosis-radiography-patient-with-illness-laying-hospital-ward-bed-medic-holding-x-ray-scan-retired-woman-while-nurse-giving-assistance-support_482257-40008.jpg?w=826",
+		"price": 33.9
+	},
+	{
+		"title": "Doctor is recognized for expertise in cardiology and heart surgery",
+		"description": "A cardiac surgeon is a medical doctor who has advanced education and training in performing surgery on the heart and the major blood vessels around it. They may belong to different specialties or may choose to specialize in certain types of heart procedures, such as procedures done on children.A cardiac surgeon is a medical doctor who performs surgery on the heart and the major blood vessels around it. There are several different medical specialties that a cardiac surgeon may fall under, some of which have overlapping areas of focus. Cardiac surgery is any kind of surgical procedure performed on your heart or any related blood vessels near where they connect to the heart. In some cases, these surgeries may involve the tissues or structures immediately next to the heart.",
+		"id": 3,
+		"img": "https://img.freepik.com/free-photo/medical-team-monitoring-patient-vital-checking-heart-rate-helping-with-fluids_482257-7519.jpg?t=st=1650295999~exp=1650296599~hmac=cfc8d19dd995cde0933ba1e3ac152cf07d53a8988ae4babc5ff4ac614184ce46&w=826",
+		"price": 71.6
+	},
+	{
+		"title": "PHYSICAL MEDICINE AND REHABILITATION CARE USING A PATIENT-CENTRED APPROACH",
+		"description": "Physical medicine and rehabilitation also known as 'physiatry' or rehabilitation medicine is a medical specialty that helps people regain bodily functions they lost due to medical conditions or injury. Rehabilitation can help many bodily functions, including bowel and bladder problems, chewing and swallowing, problems thinking or reasoning, movement or mobility, speech, and language",
+		"id": 4,
+		"img": "https://img.freepik.com/free-photo/coronavirus-medical-staff-banner-template-mockup_53876-137539.jpg?w=900&t=st=1650294792~exp=1650295392~hmac=4564f1f9c06239576a7d346bd55c53835601bbc8dec66a62aea45fc7c3edf52e",
+		"price": 41.0
+	},
+	{
+		"title": "SCREENING AT DOORSTEP: A SMART STEP FOR YOUR HEALTH",
+		"description": "The prospect of spending hours in a queue at the diagnostic lab or the hospital deters many or at least prompts them to defer stepping out for diagnostic tests. For many people, the idea of spending hours in a lab or hospital may sound demotivating. Many people also avoid going for preventive screenings and lab tests as they dread battling city traffic.",
+		"id": 5,
+		"img": "https://www.uhlbd.com/administrator/uploads/images/5.%20Screening%20at%20doorstep%20A%20smart%20step%20for%20your%20health.jpg",
+		"price": 55.2
+	},
+	{
+		"title": "GETTING SAFE EMERGENCY CARE AT DOCTOR WHO DURING THE COVID-19 PANDEMIC",
+		"description": "Since March 2020, news about the coronavirus disease (COVID-19) pandemic may have made many of us feel anxious about going to the emergency of a hospital or getting medical care, and we may have wondered if it is safe to go to the hospital. In the beginning, we have found out that nearly 30% of people were avoiding or delaying medical care due to COVID-19 concerns. Emergency departments of some hospitals had about half their usual number of patients.",
+		"id": 6,
+		"img": "https://img.freepik.com/free-photo/3d-medical-background-with-male-figure-with-brain-virus-cells_1048-5871.jpg?t=st=1650294730~exp=1650295330~hmac=45f6d07a40affcd08d13f092a95312fe64f40396380859c3f8f2b32c32087d24&w=740",
+		"price": 45.5
+	}
+]

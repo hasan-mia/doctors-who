@@ -1,0 +1,114 @@
+.banner{
+	padding-top: 5rem;
+}
+.carousel-caption {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    background: rgba(43, 153, 243, 0.068);
+}
+.carousel-caption h1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 15px;
+}
+.carousel-caption p {
+    font-size: 16px;
+}
+.carousel-indicators, .carousel-control-prev, .carousel-control-next{
+	display: none;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+.profile {
+    background: #000;
+    border: 1px solid #554e4e;
+    padding: 3% 8%;
+    box-shadow: 2px 5px 10px #616161;
+    border-radius: 50px;
+}
+.name {
+    color: #c6c6c6;
+    text-transform: uppercase;
+}
+.name h1{
+    letter-spacing: 10px;
+}
+.name h5{
+    letter-spacing: 5px;
+}
+.extra-field{
+    color:#c6c6c6;
+}
+.social-icon{
+    font-size: 35px;
+}
+.social-icon li{
+    list-style: none;
+    border:1px solid gray;
+    box-shadow: 1px 2px 3px gray;
+    margin: 10px 10px;
+    padding: 0 10px;
+    border-radius: 50px;
+}
+.social-icon li i{
+    color: #c6c6c6;
+}
+@media(max-width:767px){
+    .profile{
+        border-radius: 20px;
+    }
+    .profile-image{
+        height: 70hv;
+    }
+    .carousel-caption h1{
+        letter-spacing: 12px;
+    }
+    .social-icon {
+        font-size: 25px;
+    }
+    .name h1 {
+        letter-spacing: 5px;
+        font-size: 20px;
+    }
+    .name h5 {
+        letter-spacing: 2px;
+        font-size: 16px;
+    }
+    .social-icon li {
+        margin: 8px 8px;
+        padding: 0 8px;
+    }
+}
+@media(max-width:375px){
+    .profile{
+        border-radius: 20px;
+    }
+    .carousel-caption h1{
+        letter-spacing: 8px;
+    }
+    .name h1 {
+        letter-spacing: 3px;
+        font-size: 18px;
+    }
+    .name h5 {
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+    .social-icon {
+        font-size: 20px;
+    }
+    .social-icon li {
+        margin: 6px 6px;
+        padding: 0 6px;
+    }
+}
